@@ -1,0 +1,5 @@
+body {
+    background-image: url('/static/background.jpg') no-repeat right top;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
